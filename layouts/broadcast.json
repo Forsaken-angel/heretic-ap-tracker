@@ -1,0 +1,37 @@
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1,2",
+                "rows": [
+                    [ "gauntlets", "crossbow", "dragon_claw", "hellstaff", "phoenix_rod", "firemace", "bag" ],
+                    [ "e1m1_access", "e1m2_access", "e1m3_access", "e1m4_access", "e1m5_access", "e1m6_access", "e1m7_access", "e1m8_access", "e1m9_access"],
+                    [ "e1m1_yellow", "e1m2_yellow", "e1m2_green", "e1m2_blue", "e1m3_yellow", "e1m3_green", "e1m4_yellow", "e1m4_green", "e1m5_yellow"],
+                    [ "e1m5_green", "e1m5_blue", "e1m6_yellow", "e1m6_green", "e1m7_yellow", "e1m7_green", "e1m7_blue", "e1m9_yellow", "e1m9_green"],
+                    [ "e1m9_blue"],
+                    [ "e2m1_access", "e2m2_access", "e2m3_access", "e2m4_access", "e2m5_access", "e2m6_access", "e2m7_access", "e2m8_access", "e2m9_access"],
+                    [ "e2m1_yellow", "e2m1_green", "e2m2_yellow", "e2m2_green", "e2m3_yellow", "e2m3_green", "e2m3_blue", "e2m4_yellow", "e2m4_green"],
+                    [ "e2m4_blue", "e2m5_yellow", "e2m5_green", "e2m5_blue", "e2m6_yellow", "e2m6_green", "e2m6_blue", "e2m7_yellow", "e2m7_green"],
+                    [ "e2m7_blue", "e2m9_yellow", "e2m9_green", "e2m9_blue"],
+                    [ "e3m1_access", "e3m2_access", "e3m3_access", "e3m4_access", "e3m5_access", "e3m6_access", "e3m7_access", "e3m8_access", "e3m9_access"],
+                    [ "e3m1_yellow", "e3m1_green", "e3m2_yellow", "e3m2_green", "e3m2_blue", "e3m3_yellow", "e3m3_green", "e3m3_blue", "e3m4_yellow"],
+                    [ "e3m4_green", "e3m5_yellow", "e3m5_green", "e3m6_yellow", "e3m6_green", "e3m6_blue", "e3m7_yellow", "e3m7_green", "e3m7_blue"],
+                    [ "e3m9_yellow", "e3m9_green", "e3m9_blue"],
+                    [ "e4m1_access", "e4m2_access", "e4m3_access", "e4m4_access", "e4m5_access", "e4m6_access", "e4m7_access", "e4m8_access", "e4m9_access"],
+                    [ "e4m1_yellow", "e4m1_green", "e4m2_yellow", "e4m2_green", "e4m2_blue", "e4m3_yellow", "e4m3_green", "e4m3_blue", "e4m5_yellow"],
+                    [ "e4m5_green", "e4m5_blue", "e4m6_yellow", "e4m6_green", "e4m6_blue", "e4m7_yellow", "e4m7_green", "e4m7_blue", "e4m8_yellow"],
+                    [ "e4m9_yellow"],
+                    [ "e5m1_access", "e5m2_access", "e5m3_access", "e5m4_access", "e5m5_access", "e5m6_access", "e5m7_access", "e5m8_access", "e5m9_access"],
+                    [ "e5m1_yellow", "e5m1_green", "e5m1_blue", "e5m2_yellow", "e5m2_green", "e5m3_yellow", "e5m3_green", "e5m3_blue", "e5m4_yellow"],
+                    [ "e5m4_green", "e5m4_blue", "e5m5_yellow", "e5m5_green", "e5m5_blue", "e5m6_yellow", "e5m6_green", "e5m6_blue", "e5m7_yellow"],
+                    [ "e5m7_green", "e5m7_blue", "e5m9_yellow", "e5m9_green", "e5m9_blue"]
+                ]
+            }
+        ]
+    }
+}

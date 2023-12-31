@@ -1,0 +1,506 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "overworld"
+                    ]
+                }
+            },
+            {
+                "title": "Episode 1",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "The Docks",
+                            "icon": "images/levels/1-1.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Dungeons",
+                            "icon": "images/levels/1-2.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Gatehouse",
+                            "icon": "images/levels/1-3.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Guard Tower",
+                            "icon": "images/levels/1-4.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Citadel",
+                            "icon": "images/levels/1-5.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Cathedral",
+                            "icon": "images/levels/1-6.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Crypts",
+                            "icon": "images/levels/1-7.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hell's Maw",
+                            "icon": "images/levels/1-8.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m8"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Graveyard",
+                            "icon": "images/levels/1-9.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e1m9"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Episode 2",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "The Crater",
+                            "icon": "images/levels/2-1.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Lava Pits",
+                            "icon": "images/levels/2-2.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The River of Fire",
+                            "icon": "images/levels/2-3.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Ice Grotto",
+                            "icon": "images/levels/2-4.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Catacombs",
+                            "icon": "images/levels/2-5.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Labyrinth",
+                            "icon": "images/levels/2-6.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Great Hall",
+                            "icon": "images/levels/2-7.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Portals of Chaos",
+                            "icon": "images/levels/2-8.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m8"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Glacier",
+                            "icon": "images/levels/2-9.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e2m9"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Episode 3",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "The Storehouse",
+                            "icon": "images/levels/3-1.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Cesspool",
+                            "icon": "images/levels/3-2.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Confluence",
+                            "icon": "images/levels/3-3.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Azure Fortress",
+                            "icon": "images/levels/3-4.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Ophidian Lair",
+                            "icon": "images/levels/3-5.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Halls of Fear",
+                            "icon": "images/levels/3-6.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Chasm",
+                            "icon": "images/levels/3-7.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "D'Sparil's Keep",
+                            "icon": "images/levels/3-8.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m8"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "The Aquifier",
+                            "icon": "images/levels/3-9.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e3m9"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Episode 4",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Catafalque",
+                            "icon": "images/levels/4-1.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Blockhouse",
+                            "icon": "images/levels/4-2.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ambulatory",
+                            "icon": "images/levels/4-3.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sepulcher",
+                            "icon": "images/levels/4-4.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Great Stair",
+                            "icon": "images/levels/4-5.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Halls of the Apostate",
+                            "icon": "images/levels/4-6.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ramparts of Perdition",
+                            "icon": "images/levels/4-7.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shattered Bridge",
+                            "icon": "images/levels/4-8.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m8"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Mausoleum",
+                            "icon": "images/levels/4-9.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e4m9"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Episode 5",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ochre Cliffs",
+                            "icon": "images/levels/5-1.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m1"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Rapids",
+                            "icon": "images/levels/5-2.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m2"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Quay",
+                            "icon": "images/levels/5-3.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m3"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Courtyard",
+                            "icon": "images/levels/5-4.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m4"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hydratyr",
+                            "icon": "images/levels/5-5.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m5"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Colonnade",
+                            "icon": "images/levels/5-6.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m6"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Foetid Manse",
+                            "icon": "images/levels/5-7.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m7"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Field of Judgement",
+                            "icon": "images/levels/5-8.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m8"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Skein of D'Sparil",
+                            "icon": "images/levels/5-9.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "e5m9"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,278 @@
+[
+    {
+        "name": "overworld",
+        "location_size": 10,
+        "location_border_thickness": 1,
+        "img":"images/maps/overworld.png"
+    },
+    {
+        "name": "e1m1",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M1.png"
+    },
+    {
+        "name": "e1m2",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M2.png"
+    },
+    {
+        "name": "e1m3",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M3.png"
+    },
+    {
+        "name": "e1m4",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M4.png"
+    },
+    {
+        "name": "e1m5",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M5.png"
+    },
+    {
+        "name": "e1m6",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M6.png"
+    },
+    {
+        "name": "e1m7",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M7.png"
+    },
+    {
+        "name": "e1m8",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M8.png"
+    },
+    {
+        "name": "e1m9",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E1M9.png"
+    },
+    {
+        "name": "e2m1",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M1.png"
+    },
+    {
+        "name": "e2m2",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M2.png"
+    },
+    {
+        "name": "e2m3",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M3.png"
+    },
+    {
+        "name": "e2m4",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M4.png"
+    },
+    {
+        "name": "e2m5",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M5.png"
+    },
+    {
+        "name": "e2m6",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M6.png"
+    },
+    {
+        "name": "e2m7",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M7.png"
+    },
+    {
+        "name": "e2m8",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M8.png"
+    },
+    {
+        "name": "e2m9",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E2M9.png"
+    },
+    {
+        "name": "e3m1",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M1.png"
+    },
+    {
+        "name": "e3m2",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M2.png"
+    },
+    {
+        "name": "e3m3",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M3.png"
+    },
+    {
+        "name": "e3m4",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M4.png"
+    },
+    {
+        "name": "e3m5",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M5.png"
+    },
+    {
+        "name": "e3m6",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M6.png"
+    },
+    {
+        "name": "e3m7",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M7.png"
+    },
+    {
+        "name": "e3m8",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M8.png"
+    },
+    {
+        "name": "e3m9",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E3M9.png"
+    },
+    {
+        "name": "e4m1",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M1.png"
+    },
+    {
+        "name": "e4m2",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M2.png"
+    },
+    {
+        "name": "e4m3",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M3.png"
+    },
+    {
+        "name": "e4m4",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M4.png"
+    },
+    {
+        "name": "e4m5",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M5.png"
+    },
+    {
+        "name": "e4m6",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M6.png"
+    },
+    {
+        "name": "e4m7",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M7.png"
+    },
+    {
+        "name": "e4m8",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M8.png"
+    },
+    {
+        "name": "e4m9",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E4M9.png"
+    },
+    {
+        "name": "e5m1",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M1.png"
+    },
+    {
+        "name": "e5m2",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M2.png"
+    },
+    {
+        "name": "e5m3",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M3.png"
+    },
+    {
+        "name": "e5m4",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M4.png"
+    },
+    {
+        "name": "e5m5",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M5.png"
+    },
+    {
+        "name": "e5m6",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M6.png"
+    },
+    {
+        "name": "e5m7",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M7.png"
+    },
+    {
+        "name": "e5m8",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M8.png"
+    },
+    {
+        "name": "e5m9",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/HERETIC.WAD_E5M9.png"
+    }
+]

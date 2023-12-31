@@ -1,0 +1,14 @@
+{
+    "name": "Heretic",
+    "game_name": "heretic",
+    "package_version": "0.0.1.0",
+    "package_uid": "ap_heretic",
+    "author": "Forsaken",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        }
+    },
+    "versions_url": ""
+}

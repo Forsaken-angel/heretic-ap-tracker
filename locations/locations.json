@@ -3441,7 +3441,6 @@
                     },
                     {
                         "name": "Firemace 5",
-                        "visibility_rules": [ "checks"],
                         "access_rules": [ "$e4m7_yellowaccess" ]
                     },
                     {
@@ -3475,6 +3474,7 @@
                     },
                     {
                         "name": "Silver Shield 2",
+                        "visibility_rules": [ "checks"],
                         "access_rules": [ "e4m7_access" ]
                     },
                     {

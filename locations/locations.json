@@ -1643,7 +1643,7 @@
                     },
                     {
                         "name": "Ring of Invincibility",
-                        "access_rules": [ "$e3m1_exit" ]
+                        "access_rules": [ "$e3m1_access" ]
                     },
                     {
                         "name": "Silver Shield",
@@ -1659,7 +1659,7 @@
                     },
                     {
                         "name": "Tome of Power",
-                        "access_rules": [ "$e3m1_exit" ]
+                        "access_rules": [ "$e3m1_access" ]
                     },
                     {
                         "name": "Torch",
@@ -1672,7 +1672,7 @@
                     },
                     {
                         "name": "Hellstaff",
-                        "access_rules": [ "$e3m1_exit" ]
+                        "access_rules": [ "$e3m1_access" ]
                     },
                     {
                         "name": "Gauntlets of the Necromancer",
@@ -1680,7 +1680,7 @@
                     },
                     {
                         "name": "Exit",
-                        "access_rules": [ "$e3m1_exit" ],
+                        "access_rules": [ "$e3m1_access" ],
                         "hosted_item": "e3m1_complete"
                     }
                 ],

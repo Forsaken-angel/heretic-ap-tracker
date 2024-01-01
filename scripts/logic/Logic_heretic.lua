@@ -196,13 +196,13 @@ end
 
 function e2m5_greenaccess()
     return (
-        has("e2m5_access") and has("e2m5_yellow") and (has("e2m5_green") or has("phoenix_rod"))
+        has("e2m5_access") and has("e2m5_yellow") and has("e2m5_green")
     )
 end
 
 function e2m5_blueaccess()
     return (
-        has("e2m5_access") and has("e2m5_yellow") and (has("e2m5_green") or has("phoenix_rod")) and has("e2m5_blue")
+        has("e2m5_access") and has("e2m5_yellow") and has("e2m5_green") and has("e2m5_blue")
     )
 end
 
@@ -274,7 +274,7 @@ end
 
 function e3m1_exit()
     return (
-        has("e3m1_access") and (has("e3m1_green") or has("pro_mode"))
+        has("e3m1_access") and has("e3m1_green")
     )
 end
 
@@ -568,7 +568,7 @@ end
 
 function e5m3_bluepro()
     return (
-        has("e5m3_access") and (has("e5m3_blue") or has("phoenix_rod"))  
+        has("e5m3_access") and has("e5m3_blue")  
     )
 end
 

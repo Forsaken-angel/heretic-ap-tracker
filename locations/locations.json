@@ -3226,7 +3226,7 @@
                     },
                     {
                         "name": "Firemace 3",
-                        "access_rules": [ "$e4m5_yellowaccess" ]
+                        "access_rules": [ "$e4m5_greenaccess" ]
                     },
                     {
                         "name": "Firemace 4",

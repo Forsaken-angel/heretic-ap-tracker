@@ -4340,11 +4340,11 @@
                     },
                     {
                         "name": "Tome of Power",
-                        "access_rules": [ "$e5m5_greenaccess" ]
+                        "access_rules": [ "e5m5_access" ]
                     },
                     {
                         "name": "Shadowsphere",
-                        "access_rules": [ "$e5m5_greenaccess" ]
+                        "access_rules": [ "e5m5_access" ]
                     },
                     {
                         "name": "Ring of Invincibility",

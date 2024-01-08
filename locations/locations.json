@@ -3939,7 +3939,7 @@
                     },
                     {
                         "name": "Ring of Invincibility",
-                        "access_rules": [ "$e5m2_yellowaccess" ]
+                        "access_rules": [ "$e5m2_greenaccess" ]
                     },
                     {
                         "name": "Silver Shield",
@@ -3994,7 +3994,7 @@
                     },
                     {
                         "name": "Firemace 3",
-                        "access_rules": [ "$e5m2_yellowaccess" ]
+                        "access_rules": [ "$e5m2_greenaccess" ]
                     },
                     {
                         "name": "Firemace 4",

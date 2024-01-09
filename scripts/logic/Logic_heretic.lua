@@ -28,7 +28,7 @@ end
 
 function e1m2_blueaccess()
     return (
-        has("e1m2_access") and (has("e1m2_yellow") and has("e1m2_blue")) or (has("e1m2_green") and has("e1m2_blue"))
+        (has("e1m2_access") and has("e1m2_yellow") and has("e1m2_blue")) or (has("e1m2_access") and has("e1m2_green") and has("e1m2_blue"))
     )
 end
 

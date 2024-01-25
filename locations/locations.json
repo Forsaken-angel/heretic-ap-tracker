@@ -3079,6 +3079,7 @@
                     },
                     {
                         "name": "Silver Shield 2",
+                        "visibility_rules": [ "checks"],
                         "access_rules": [ "e4m4_access" ]
                     },
                     {
@@ -3441,6 +3442,7 @@
                     },
                     {
                         "name": "Firemace 5",
+                        "visibility_rules": [ "checks"],
                         "access_rules": [ "$e4m7_yellowaccess" ]
                     },
                     {
@@ -4568,6 +4570,7 @@
                     },
                     {
                         "name": "Phoenix Rod",
+                        "visibility_rules": [ "checks"],
                         "access_rules": [ "$e5m7_greenaccess" ]
                     },
                     {

@@ -1307,13 +1307,14 @@
             {
                 "img": "images/settings/non_pro_mode.png",
                 "name": "Pro Mode - Off",
-                "codes": "pro_mode",
+                "codes": "no_mode",
                 "inherit_codes": false
             },
             {
                 "img": "images/settings/pro_mode.png",
                 "name": "Pro Mode - On",
-                "codes": "pro_mode"
+                "codes": "pro_mode",
+                "inherit_codes": false
             }
         ]
     },
@@ -1326,13 +1327,14 @@
             {
                 "img": "images/settings/non_checksanity.png",
                 "name": "Checks - Off",
-                "codes": "pro_mode",
+                "codes": "nochecks",
                 "inherit_codes": false
             },
             {
                 "img": "images/settings/checksanity.png",
                 "name": "Checks - On",
-                "codes": "checks"
+                "codes": "checks",
+                "inherit_codes": false
             }
         ]
     },

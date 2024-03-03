@@ -4282,11 +4282,11 @@
                     },
                     {
                         "name": "Green key",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Blue key",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Ethereal Crossbow",
@@ -4294,35 +4294,35 @@
                     },
                     {
                         "name": "Gauntlets of the Necromancer",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Hellstaff",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Dragon Claw",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Phoenix Rod",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Firemace",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Firemace 2",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Firemace 3",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Firemace 4",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Bag of Holding",
@@ -4330,15 +4330,15 @@
                     },
                     {
                         "name": "Morph Ovum",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Bag of Holding 2",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Mystic Urn",
-                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue" ]
+                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue, e5m5_access" ]
                     },
                     {
                         "name": "Tome of Power",
@@ -4350,19 +4350,19 @@
                     },
                     {
                         "name": "Ring of Invincibility",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Chaos Device",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Map Scroll",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Enchanted Shield",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Torch",
@@ -4370,11 +4370,11 @@
                     },
                     {
                         "name": "Tome of Power 2",
-                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue" ]
+                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue, e5m5_access" ]
                     },
                     {
                         "name": "Silver Shield",
-                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue" ]
+                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue, e5m5_access" ]
                     },
                     {
                         "name": "Silver Shield 2",
@@ -4382,11 +4382,11 @@
                     },
                     {
                         "name": "Tome of Power 3",
-                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green" ]
+                        "access_rules": [ "$e5m5_yellowaccess","pro_mode, e5m5_green, e5m5_access" ]
                     },
                     {
                         "name": "Exit",
-                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue" ],
+                        "access_rules": [ "$e5m5_blueaccess","pro_mode, e5m5_green, e5m5_blue, e5m5_access" ],
                         "hosted_item": "e5m5_complete"
                     }
                 ],

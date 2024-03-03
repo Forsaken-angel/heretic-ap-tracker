@@ -8,4 +8,6 @@ PopTracker v0.25.0 or higher is recommended.
 
 (Ethereal Crossbow, Gauntlets of the Necromancer, and Bag of Holding still dont autotrack yet and I've yet to figure out why.) -has now been corrected, thanks to subenji! Alongside the checksanity checks that Zaakeil(Espy), and Volvary caught!
 
+Pro Mode has been properly implemented and can now be used to check for jumps on a few stages!
+
 Full credit of this pack should go to Ozone, their tracker for DOOM 1993 was of the most help! And Seto10987 for assisting with locating the IDs for the items/locations and double checking my screw ups!

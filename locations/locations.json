@@ -3493,7 +3493,7 @@
                     },
                     {
                         "name": "Torch",
-                        "access_rules": [ "$e4m7_access" ]
+                        "access_rules": [ "e4m7_access" ]
                     },
                     {
                         "name": "Torch 2",
@@ -4310,7 +4310,7 @@
                     },
                     {
                         "name": "Firemace",
-                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_green, e5m5_access" ]
+                        "access_rules": [ "$e5m5_greenaccess","pro_mode, e5m5_access" ]
                     },
                     {
                         "name": "Firemace 2",
@@ -4500,7 +4500,7 @@
                     },
                     {
                         "name": "Tome of Power 2",
-                        "access_rules": [ "$e5m6_yellowaccess" ]
+                        "access_rules": [ "$e5m6_yellowaccess","pro_mode, e5m6_access" ]
                     },
                     {
                         "name": "Mystic Urn 2",

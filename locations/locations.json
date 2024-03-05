@@ -3497,7 +3497,7 @@
                     },
                     {
                         "name": "Torch 2",
-                        "access_rules": [ "$e4m7_yellowaccess" ]
+                        "access_rules": [ "e4m7_access, e4m7_yellow" ]
                     },
                     {
                         "name": "Mystic Urn 2",

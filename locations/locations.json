@@ -4042,7 +4042,7 @@
                     },
                     {
                         "name": "Gauntlets of the Necromancer",
-                        "access_rules": [ "$e5m3_blueaccess" ]
+                        "access_rules": [ "$e5m3_blueaccess","pro_mode, e5m3_access" ]
                     },
                     {
                         "name": "Dragon Claw",
@@ -4087,7 +4087,7 @@
                     },
                     {
                         "name": "Silver Shield 2",
-                        "access_rules": [ "$e5m3_bluegreen" ]
+                        "access_rules": [ "$e5m3_bluegreen","pro_mode, $e5m3_greenaccess" ]
                     },
                     {
                         "name": "Map Scroll",
@@ -4108,7 +4108,7 @@
                     },
                     {
                         "name": "Tome of Power 3",
-                        "access_rules": [ "$e5m3_bluegreen" ]
+                        "access_rules": [ "$e5m3_bluegreen","pro_mode, $e5m3_greenaccess" ]
                     },
                     {
                         "name": "Torch",
@@ -4116,7 +4116,7 @@
                     },
                     {
                         "name": "Firemace",
-                        "access_rules": [ "$e5m3_bluegreen" ]
+                        "access_rules": [ "$e5m3_bluegreen","pro_mode, $e5m3_greenaccess" ]
                     },
                     {
                         "name": "Firemace 2",
@@ -4137,7 +4137,7 @@
                     },
                     {
                         "name": "Firemace 6",
-                        "access_rules": [ "$e5m3_bluegreen" ]
+                        "access_rules": [ "$e5m3_bluegreen","pro_mode, $e5m3_greenaccess" ]
                     },
                     {
                         "name": "Bag of Holding 2",
@@ -4146,7 +4146,7 @@
                     },
                     {
                         "name": "Exit",
-                        "access_rules": [ "$e5m3_bluegreen" ],
+                        "access_rules": [ "$e5m3_bluegreen","pro_mode, $e5m3_greenaccess" ],
                         "hosted_item": "e5m3_complete"
                     }
                 ],

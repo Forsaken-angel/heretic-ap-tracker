@@ -3412,6 +3412,10 @@
                         "access_rules": [ "e4m7_access" ]
                     },
                     {
+                        "name": "Hellstaff 2",
+                        "access_rules": [ "e4m7_access" ]
+                    },
+                    {
                         "name": "Ethereal Crossbow 2",
                         "access_rules": [ "e4m7_access" ]
                     },
@@ -17238,7 +17242,7 @@
                 "map_locations": [
                     {
                         "map": "e4m7",
-                        "x": 529,
+                        "x": 540,
                         "y": 84
                     }
                 ]
